@@ -1,9 +1,5 @@
 # DCF-Valuation-Infosys
 
-# Infosys Ltd. (NSE: INFY) - Equity Research Note
-
-A single-page institutional equity research note and DCF valuation model initiating coverage on Infosys Ltd. with a **HOLD** recommendation.
-
 ## Overview
 * **Recommendation:** HOLD
 * **Current Price (CMP):** ₹1,035.00
