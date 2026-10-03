@@ -7,8 +7,8 @@
 * **WACC:** 12.4% | **Terminal Growth ($g$):** 4.5%
 
 ## Files in this Repository
-* 1. Equity Research Note
-  2. DCF Valuation
+1. Equity Research Note
+2. DCF Valuation
 
 ## Key Methodology
 * **Enterprise-to-Equity Bridge:** Built an enterprise-to-equity walkdown accounting for 5-year present value FCF, terminal value, cash, investments, and lease-heavy borrowings.
